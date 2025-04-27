@@ -19,9 +19,13 @@ Deliver Audio Feedback:
 Convert the analyzed content into audio output for real-time user feedback
 
 **Prototype**
+
+
 ![image](https://github.com/user-attachments/assets/dfbf94f5-7d18-4125-aa0c-008a1d26df59)
 
 Output:
+
+
 ![image](https://github.com/user-attachments/assets/f58b11c6-401f-483e-bbd2-dd8ab4ddab31)
 
 ![image](https://github.com/user-attachments/assets/9d5aabee-3baf-4c70-b14f-714eb744a0d9)
